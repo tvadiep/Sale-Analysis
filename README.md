@@ -1,4 +1,4 @@
-# P4DS_FinalProject
+# This repos is for Programming for Data Science Final Project
 
 ## Members Information
 ### Trần Văn Điệp - 1712343
